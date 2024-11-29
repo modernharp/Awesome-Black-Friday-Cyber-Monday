@@ -438,6 +438,7 @@ Total deals: 648
 | 🖥️ | [GlanceCam IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is beloved and powerful IP camera viewer for Mac with support for standard streaming protocols | Standard version $ 1,99 (**50% off!**) |
 | 🖥️ | [Anybox](https://anybox.app) | A native bookmark manager for macOS and iOS. | 30% off with the lifetime plan (Nov 26 – Dec 3) |
 | 🔗 | [LinkYourFile](https://linkyourfile.com/) | Link local files or folders in any web application. | 50% off until 1 Dec |
+| 💬 | [SpeechGenerator](https://speechgenerator.co/) | Create speeches for any occasion in seconds. | 10% off with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -535,6 +536,7 @@ Total deals: 648
 | 🎥 | [Vidlo](https://vidlo.video) | Collect Video Testimonials and UGC Videos Easily | 30% OFF for 3 months with code  **BlackFriday2024** |
 | 🚀 | [WP Full Picture](https://wpfullpicture.com/) | Analytics and Privacy toolkit for WordPress. Easily install Google Analytics, Google Ads, Meta Pixel or any other tracking tool and use it according to privacy laws. | 50% OFF Lifetime plans |
 | 🚀 | [lowkey viral](https://lowkeyviral.com/) | Generate viral Reels & TikToks in the trending grid format with AI | 50% OFF (from 0.22$ per video) |
+| 🎥 | [Priyansh Animations](https://www.priyansh.net/) | Get hollywood style animations created with your titles. | 30% OFF for with code  **BLACKF30**  |
 
 [⬆️ Go to Top](#table-of-contents)
 
